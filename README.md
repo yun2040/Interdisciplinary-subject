@@ -1,2 +1,22 @@
-# Interdisciplinary-subject
-cross-subject
+# 跨学科研究助手
+基于知识图谱和自适应学习的智能文献推荐系统
+
+## 🎯 功能特色
+- 智能文献推荐
+- 跨学科知识发现  
+- 个性化学习路径
+- 知识图谱可视化
+
+## 🛠️ 技术栈
+- 后端: FastAPI (部署在Vercel)
+- 数据库: Neo4j Aura + Pinecone
+- AI平台: Coze智能体
+- 数据源: OpenAlex学术数据
+
+## 🚀 快速开始
+1. 克隆项目
+2. 配置环境变量
+3. 部署到Vercel
+4. 配置Coze智能体
+
+## 📁 项目结构
